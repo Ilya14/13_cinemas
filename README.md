@@ -153,3 +153,8 @@ cinemas.py# INFO     [12/31/2016 04:55:19 PM] Movies with the greatest rating (c
 9 "Елки-5" (RATING: 5.475; RATING COUNT: 3636; CINEMAS COUNT: 156)
 10 "Три богатыря и Морской царь" (RATING: 5.345; RATING COUNT: 567; CINEMAS COUNT: 150)
 ```
+
+## Project Goals
+
+The code is written for educational purposes. Training course for
+web-developers - DEVMAN.org
